@@ -5,7 +5,7 @@ Program the Christmas tree to light up when you press the light bulb. Use the st
 ⭐ **About**  
 This project is for educational purposes only. Pull requests are welcome, but priority is given to project authors! Thank you for your cooperation!
 
-Site published at: [Link]  https://modjuska123.github.io/TechinScriptmasDecember_11/
+Site published at: https://modjuska123.github.io/TechinScriptmasDecember_11/
 
 Design: Christmas Tree Interactive
 
