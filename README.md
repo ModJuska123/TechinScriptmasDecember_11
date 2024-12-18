@@ -1,11 +1,11 @@
 # Christmas Tree Light Up
 
-Program the Christmas tree to light up when you press the light bulb, as shown in the video file. Use the starter files and JavaScript.
+Program the Christmas tree to light up when you press the light bulb. Use the starter files and JavaScript.
 
 ⭐ **About**  
 This project is for educational purposes only. Pull requests are welcome, but priority is given to project authors! Thank you for your cooperation!
 
-Site published at: [Link to the published project]  
+Site published at: [Link]  https://modjuska123.github.io/TechinScriptmasDecember_11/
 
 Design: Christmas Tree Interactive
 
